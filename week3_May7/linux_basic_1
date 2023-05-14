@@ -1,0 +1,52 @@
+hostname
+uptime
+clear
+ls - list
+ls -la - long listing with all files
+lscpu - list cpu
+lspci - list pc interface
+cd - change directory 
+pwd - present working directory
+mkdir - make directory
+rmdir - remove empty directory
+rm - remove files
+rm -rf - remove files recursively and force
+ifconfig - IP address and MAC address
+adduser username = to create new user
+deluser username = delete user 
+sudo su - = switch to root 
+sudo su - username = switch to other user 
+exit =  exit from terminal 
+cd .. = back 
+id = to check user and group information
+
+
+Relative and absolute path:
+
+
+Important files 
+cat /etc/passwd
+cat /etc/shadow
+cat /etc/groups
+cat /etc/shells
+
+root user uid 0
+uid=0(root) gid=0(root) groups=0(root)
+
+
+application user uid will be 1 to 999
+
+
+
+directory structure:
+
+/ = root 
+/home = home 
+/dev = devices
+/etc = configuration 
+/bin = binaries
+/var = logs and runtime files 
+/opt = application files 
+/usr = Library files 
+
+
