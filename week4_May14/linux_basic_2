@@ -1,0 +1,53 @@
+#Linux Basic Commands - class 2
+
+top
+whoami
+curl
+wget
+grep
+ps
+netstat
+lsmod
+whatis
+find
+cp
+mv
+head
+tail
+mkdir
+free -h
+df -h
+lsblk
+rmdir
+rm
+
+
+curl
+wget
+touch test{1..2}
+
+File permission and ownership:
+chmod 
+chown
+
+chown root:root test*
+
+chmod 
+
+1 = x
+2 = w
+4 = r
+
+
+777 = rwxrwxrwx
+644 = rw-r--r--
+
+
+
+Task:
+nc
+cluster
+sed
+crontab
+
+
