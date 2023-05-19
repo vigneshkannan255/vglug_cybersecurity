@@ -8,5 +8,11 @@ pvs - Physical volume information
 vgs - Volume group information
 lvs - Logical volume information
 
+echo "hello"
+echo $PATH
+echo $(date)
+
+usermod -s /bin/ksh username
+
 reboot 
 ssh username@hostname
