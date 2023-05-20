@@ -1,0 +1,11 @@
+KALI 
+https://www.kali.org/get-kali/#kali-installer-images
+https://cdimage.kali.org/kali-2023.1/kali-linux-2023.1-installer-amd64.iso
+
+ISO Burners
+Rufus (open source)
+  Windows - https://github.com/pbatard/rufus/releases/download/v4.0/rufus-4.0p.exe
+
+Balena Etcher (open source)
+  Windows - https://github.com/balena-io/etcher/releases/download/v1.18.4/balenaEtcher-Portable-1.18.4.exe
+  Linux - https://github.com/balena-io/etcher/releases/download/v1.18.4/balenaEtcher-1.18.4-x64.AppImage
