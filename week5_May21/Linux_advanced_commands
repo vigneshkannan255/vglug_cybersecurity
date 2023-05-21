@@ -1,5 +1,20 @@
 sudo 
 apt - Package management
+    sudo apt install package_name 
+    sudo apt remove package_name
+    sudo apt list
+    sudo apt list --installed| grep bash
+    sudo apt update
+    sudo apt upgrade
+
+
+echo "hello"
+echo $PATH
+echo $(date)
+
+usermod -s /bin/ksh username
+
+
 systemctl - service mangement
 
 df -Th - Filesystem 
@@ -7,12 +22,6 @@ lsblk - disk info
 pvs - Physical volume information
 vgs - Volume group information
 lvs - Logical volume information
-
-echo "hello"
-echo $PATH
-echo $(date)
-
-usermod -s /bin/ksh username
 
 reboot 
 ssh username@hostname
