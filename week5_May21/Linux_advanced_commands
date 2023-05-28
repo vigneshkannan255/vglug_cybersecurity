@@ -14,14 +14,7 @@ echo $(date)
 
 usermod -s /bin/ksh username
 
+Task:
+1. Blog writting with wordpress
+2. Privilege escalation
 
-systemctl - service mangement
-
-df -Th - Filesystem 
-lsblk - disk info
-pvs - Physical volume information
-vgs - Volume group information
-lvs - Logical volume information
-
-reboot 
-ssh username@hostname
