@@ -1,0 +1,14 @@
+Agenda for today session
+Networking part 1
+
+	what is networking
+	what is Internet
+	Identifying devices on a network(IP,MAC)
+	How public IP address are assigned
+	IP addressing,Subnetting
+	Types of network-public and private network
+	IPV4 and IPV6
+	MAC address
+	ARP(ADDRESS RESSOLUTION PROTOCOL)
+	DHCP(DYNAMIC HOST CONFIGURATION PROTCOL)
+	Networking tools(PING,Traceroute)
