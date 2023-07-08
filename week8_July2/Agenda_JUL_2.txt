@@ -12,3 +12,5 @@ Networking part 1
 	ARP(ADDRESS RESSOLUTION PROTOCOL)
 	DHCP(DYNAMIC HOST CONFIGURATION PROTCOL)
 	Networking tools(PING,Traceroute)
+
+https://www.slideshare.net/amdadam5/introduction-to-network-fundamentals
